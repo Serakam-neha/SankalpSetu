@@ -1,0 +1,10 @@
+# Ignore Windows shortcuts and system files
+*.lnk
+*.ini
+
+# Ignore random PDFs, zips, docs from desktop
+*.pdf
+*.zip
+
+# Ignore local folders not part of project
+../*
